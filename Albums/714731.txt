@@ -1,0 +1,1 @@
+{'name': 'In Hajs We Trust (ENGLISH TRANSLATION)', 'album_id': 714731, 'id_artist': 1165795, 'name_artist': 'Białas & Lanek', 'cover': 'https://images.genius.com/d8511e3a79e0d81bba85de7eca440bd4.823x823x1.png'}

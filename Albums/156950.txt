@@ -1,0 +1,1 @@
+{'name': 'H8ME Mixtape vol. 3', 'album_id': 156950, 'id_artist': 31159, 'name_artist': 'Białas', 'cover': 'https://images.genius.com/e418ad46182d5a9888719a964c143b5d.200x200x1.jpg'}

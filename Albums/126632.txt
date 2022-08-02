@@ -1,0 +1,1 @@
+{'name': 'NieKumam', 'album_id': 126632, 'id_artist': 84456, 'name_artist': 'Żabson', 'cover': 'https://images.genius.com/932b69446b3e5485d17cc6e2ad3540fd.640x640x1.jpg'}

@@ -1,0 +1,1 @@
+{'name': 'In Hajs We Trust 2', 'album_id': 462639, 'id_artist': 1165795, 'name_artist': 'Białas & Lanek', 'cover': 'https://images.genius.com/b3b8a2a62044a9db71cc3cbaf9c479b6.640x640x1.jpg'}

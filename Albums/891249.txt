@@ -1,0 +1,1 @@
+{'name': 'Ostatni Taniec', 'album_id': 891249, 'id_artist': 1012840, 'name_artist': 'Kizo', 'cover': 'https://images.genius.com/49775d200cb4b72b58256efe153e0b35.1000x1000x1.jpg'}

@@ -1,0 +1,1 @@
+{'name': 'Europa', 'album_id': 661872, 'id_artist': 114783, 'name_artist': 'Taco Hemingway', 'cover': 'https://images.genius.com/4418ef92fd026f741a651d2becf68eb8.1000x1000x1.jpg'}

@@ -1,0 +1,1 @@
+{'name': 'prePOLON', 'album_id': 352632, 'id_artist': 1165795, 'name_artist': 'Białas & Lanek', 'cover': 'https://images.genius.com/280f4df5dd29446715e9ff1ea4073b57.867x867x1.png'}

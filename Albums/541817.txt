@@ -1,0 +1,1 @@
+{'name': 'Złoto i Biel', 'album_id': 541817, 'id_artist': 1012840, 'name_artist': 'Kizo', 'cover': 'https://images.genius.com/0c2df82635a15f5b8c6126fdef6bfb78.308x308x1.png'}

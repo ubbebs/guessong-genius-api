@@ -1,0 +1,1 @@
+{'name': 'Murem za Bonusem', 'album_id': 663689, 'id_artist': 31159, 'name_artist': 'Białas', 'cover': 'https://images.genius.com/662c201e28f25339309cb4ea01b98a5e.1000x1000x1.png'}

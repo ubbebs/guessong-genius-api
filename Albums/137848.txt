@@ -1,0 +1,1 @@
+{'name': 'Egzotyka', 'album_id': 137848, 'id_artist': 40889, 'name_artist': 'Quebonafide', 'cover': 'https://images.genius.com/ced94a1201e86b9fa77d8c1dca923065.1000x1000x1.png'}

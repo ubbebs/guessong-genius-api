@@ -1,0 +1,1 @@
+{'name': 'Czempion', 'album_id': 450998, 'id_artist': 1012840, 'name_artist': 'Kizo', 'cover': 'https://images.genius.com/87bf865ec936035339da5a7df0a04dd8.959x959x1.jpg'}

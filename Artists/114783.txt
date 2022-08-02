@@ -1,0 +1,1 @@
+{'name': 'Taco Hemingway', 'artist_id': 114783, 'cover': 'https://images.genius.com/e5996f18e3130755a34c88772998eb8e.729x729x1.jpg', 'bgcover': 'https://images.genius.com/41437523913170c516fb500db030ad80.760x400x1.jpg'}

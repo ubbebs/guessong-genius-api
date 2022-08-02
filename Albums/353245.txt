@@ -1,0 +1,1 @@
+{'name': 'POLON', 'album_id': 353245, 'id_artist': 1165795, 'name_artist': 'Białas & Lanek', 'cover': 'https://images.genius.com/1af053dd26346be134b037118d961eaa.640x640x1.png'}

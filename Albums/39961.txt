@@ -1,0 +1,1 @@
+{'name': 'Zakazane Owoce EP', 'album_id': 39961, 'id_artist': 31159, 'name_artist': 'Białas', 'cover': 'https://images.genius.com/02718b27f10006809ea49bb05641d774.393x360x1.jpg'}

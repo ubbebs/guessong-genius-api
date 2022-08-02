@@ -1,0 +1,1 @@
+{'name': 'In Hajs We Trust 3: Ostateczne rozliczenie', 'album_id': 738454, 'id_artist': 1165795, 'name_artist': 'Białas & Lanek', 'cover': 'https://images.genius.com/a0d07b9ddcf1475613c51b5b058eb986.1000x1000x1.jpg'}

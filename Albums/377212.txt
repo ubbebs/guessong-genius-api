@@ -1,0 +1,1 @@
+{'name': 'Love Me', 'album_id': 377212, 'id_artist': 31159, 'name_artist': 'Białas', 'cover': 'https://images.genius.com/7ac41832f4ce2f1cb7366b8982662acd.400x400x1.jpg'}

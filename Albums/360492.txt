@@ -1,0 +1,1 @@
+{'name': 'Szprycer', 'album_id': 360492, 'id_artist': 114783, 'name_artist': 'Taco Hemingway', 'cover': 'https://images.genius.com/76ca93667d8a8b7d7ff5d68dbb18360c.1000x1000x1.jpg'}

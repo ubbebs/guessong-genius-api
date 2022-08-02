@@ -1,0 +1,1 @@
+{'name': 'White 2115', 'artist_id': 989939, 'cover': 'https://images.genius.com/987824288c5f63e9f70479c405558e6d.1000x1000x1.jpg', 'bgcover': 'https://images.genius.com/158087c952718993195a0d3759021949.1000x169x1.jpg'}

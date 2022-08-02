@@ -1,0 +1,1 @@
+{'name': '0,25 mg', 'album_id': 415887, 'id_artist': 1421023, 'name_artist': 'TACONAFIDE', 'cover': 'https://images.genius.com/87c9ceb23ebe2c43b826385ea203e772.640x640x1.jpg'}

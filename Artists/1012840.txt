@@ -1,0 +1,1 @@
+{'name': 'Kizo', 'artist_id': 1012840, 'cover': 'https://images.genius.com/1835ad63628b3d2e96e2c8fd68051ce9.597x597x1.png', 'bgcover': 'https://images.genius.com/e226044fdff0b0374b9cbe81d6de209a.1000x613x1.jpg'}

@@ -1,0 +1,1 @@
+{'name': 'Passion Fruits EP', 'album_id': 148471, 'id_artist': 84456, 'name_artist': 'Żabson', 'cover': 'https://images.genius.com/c16b2545b01981c5c3452fcbae040154.640x640x1.jpg'}

@@ -1,0 +1,1 @@
+{'name': 'SOMA 0,5 mg', 'album_id': 410904, 'id_artist': 1421023, 'name_artist': 'TACONAFIDE', 'cover': 'https://images.genius.com/22607e4b0729c5d603d0d279a726dbde.1000x1000x1.jpg'}

@@ -1,0 +1,1 @@
+{'name': 'Miej Wiarę EP', 'album_id': 913949, 'id_artist': 31159, 'name_artist': 'Białas', 'cover': 'https://images.genius.com/8be10a4d91d5e48c1b795e00c22b19d4.1000x1000x1.jpg'}

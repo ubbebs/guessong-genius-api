@@ -1,0 +1,1 @@
+{'name': 'Young Hems', 'album_id': 67816, 'id_artist': 114783, 'name_artist': 'Taco Hemingway', 'cover': 'https://images.genius.com/66b8ab5bd93fe1981b27e5e4c87febb7.847x847x1.jpg'}

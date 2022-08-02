@@ -1,0 +1,1 @@
+{'name': 'Erotyka', 'album_id': 120114, 'id_artist': 40889, 'name_artist': 'Quebonafide', 'cover': 'https://images.genius.com/c8ea2db3e3a28d8f99b551bc379fb1ef.640x640x1.jpg'}

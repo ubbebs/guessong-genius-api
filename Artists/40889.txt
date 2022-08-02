@@ -1,0 +1,1 @@
+{'name': 'Quebonafide', 'artist_id': 40889, 'cover': 'https://images.genius.com/60cd5a8fccaf6b7d3efd89ba5f30a8a3.1000x1000x1.jpg', 'bgcover': 'https://images.genius.com/d322c4d19227f4c9060536fe7cb41a30.851x233x1.png'}

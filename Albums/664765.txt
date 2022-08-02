@@ -1,0 +1,1 @@
+{'name': 'Hulanki - EP', 'album_id': 664765, 'id_artist': 2232626, 'name_artist': 'Young Leosia', 'cover': 'https://images.genius.com/16bc2b56cc4539c24c3e48d2e1538666.1000x1000x1.jpg'}

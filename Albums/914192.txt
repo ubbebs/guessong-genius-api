@@ -1,0 +1,1 @@
+{'name': 'Quebonafide Mixtape', 'album_id': 914192, 'id_artist': 40889, 'name_artist': 'Quebonafide', 'cover': 'https://assets.genius.com/images/default_cover_art.png?1659110368'}

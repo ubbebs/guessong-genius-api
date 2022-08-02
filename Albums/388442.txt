@@ -1,0 +1,1 @@
+{'name': 'HYPER2000', 'album_id': 388442, 'id_artist': 1165795, 'name_artist': 'Białas & Lanek', 'cover': 'https://images.genius.com/64234b8fc58a243219116b12727da4c5.1000x1000x1.jpg'}

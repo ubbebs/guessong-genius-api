@@ -1,0 +1,1 @@
+{'name': 'Ezoteryka', 'album_id': 73279, 'id_artist': 40889, 'name_artist': 'Quebonafide', 'cover': 'https://images.genius.com/096b85938fc1ee48395a59a7f90ccbe8.1000x1000x1.png'}

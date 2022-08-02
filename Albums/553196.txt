@@ -1,0 +1,1 @@
+{'name': 'Kiedyś i Teraz Człowieku Mixtape', 'album_id': 553196, 'id_artist': 31159, 'name_artist': 'Białas', 'cover': 'https://images.genius.com/f00aa64f4f1c0ce41932936f8fdcc130.360x360x1.jpg'}

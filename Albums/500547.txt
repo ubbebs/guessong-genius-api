@@ -1,0 +1,1 @@
+{'name': 'Pegaz', 'album_id': 500547, 'id_artist': 1012840, 'name_artist': 'Kizo', 'cover': 'https://images.genius.com/61036c57b3a42af3b3ea403228063c9d.960x960x1.jpg'}

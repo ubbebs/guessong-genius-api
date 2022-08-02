@@ -1,0 +1,1 @@
+{'name': 'TACONAFIDE', 'artist_id': 1421023, 'cover': 'https://images.genius.com/a8a5a5b13f9d43b765d00bb6ffbc761c.410x410x1.jpg', 'bgcover': 'https://images.genius.com/9b4b6bde78c9d2942c3538bf323547e1.1000x654x1.jpg'}

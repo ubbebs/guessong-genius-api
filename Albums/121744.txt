@@ -1,0 +1,1 @@
+{'name': 'Trójkąt Warszawski', 'album_id': 121744, 'id_artist': 114783, 'name_artist': 'Taco Hemingway', 'cover': 'https://images.genius.com/a38dccc1f190a1e509bccf25ceb461be.960x959x1.jpg'}

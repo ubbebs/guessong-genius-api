@@ -1,0 +1,1 @@
+{'name': 'prePOLON (ENGLISH TRANSLATION)', 'album_id': 714730, 'id_artist': 1165795, 'name_artist': 'Białas & Lanek', 'cover': 'https://images.genius.com/eb567f8082b03efdc7ea69531ab659a9.823x823x1.png'}

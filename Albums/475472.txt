@@ -1,0 +1,1 @@
+{'name': 'Pure White', 'album_id': 475472, 'id_artist': 989939, 'name_artist': 'White 2115', 'cover': 'https://images.genius.com/1efbd8f4e4c5c4bfcf109dfc0bc2219c.465x465x1.png'}

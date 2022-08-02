@@ -1,0 +1,1 @@
+{'name': 'Eklektyka', 'album_id': 39086, 'id_artist': 40889, 'name_artist': 'Quebonafide', 'cover': 'https://images.genius.com/cd70ae48dce29063aa61351f34220c76.1000x1000x1.png'}

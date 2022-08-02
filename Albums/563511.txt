@@ -1,0 +1,1 @@
+{'name': 'POCZTÓWKA Z WWA, LATO ’19', 'album_id': 563511, 'id_artist': 114783, 'name_artist': 'Taco Hemingway', 'cover': 'https://images.genius.com/685795d1ab440ba7a5afbfac3725cabc.1000x1000x1.jpg'}

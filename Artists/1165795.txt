@@ -1,0 +1,1 @@
+{'name': 'Białas & Lanek', 'artist_id': 1165795, 'cover': 'https://images.genius.com/b287c799bcb852bc4b9ffde44fda883b.390x390x1.jpg', 'bgcover': 'https://images.genius.com/793bca15b33ab5b94542287e077495ef.1000x666x1.jpg'}

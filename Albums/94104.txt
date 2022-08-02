@@ -1,0 +1,1 @@
+{'name': 'BOSS INCOMIN’', 'album_id': 94104, 'id_artist': 989939, 'name_artist': 'White 2115', 'cover': 'https://images.genius.com/d8b6d18e4b142a61d86a6c5661cc7d38.475x475x1.png'}

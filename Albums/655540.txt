@@ -1,0 +1,1 @@
+{'name': 'Jarmark', 'album_id': 655540, 'id_artist': 114783, 'name_artist': 'Taco Hemingway', 'cover': 'https://images.genius.com/008fa0b2560b2ce33813063e42757336.1000x1000x1.jpg'}

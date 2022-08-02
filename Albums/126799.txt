@@ -1,0 +1,1 @@
+{'name': 'Umowa o dzieło', 'album_id': 126799, 'id_artist': 114783, 'name_artist': 'Taco Hemingway', 'cover': 'https://images.genius.com/8a72cb9d34e318ad1bc82e5bad525d3d.960x960x1.jpg'}

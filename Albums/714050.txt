@@ -1,0 +1,1 @@
+{'name': 'HYPER2000 (ENGLISH TRANSLATION)', 'album_id': 714050, 'id_artist': 1165795, 'name_artist': 'Białas & Lanek', 'cover': 'https://images.genius.com/7ae5ff85264db4b5368c79bae8fded38.823x823x1.jpg'}

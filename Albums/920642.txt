@@ -1,0 +1,1 @@
+{'name': 'Pretty Girl', 'album_id': 920642, 'id_artist': 989939, 'name_artist': 'White 2115', 'cover': 'https://images.genius.com/ad8f96026b5e895f7a9d8ee74fae999a.377x377x1.png'}

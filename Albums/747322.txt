@@ -1,0 +1,1 @@
+{'name': 'Jeszcze 5 minut', 'album_id': 747322, 'id_artist': 1012840, 'name_artist': 'Kizo', 'cover': 'https://images.genius.com/b417203b1cf90a13fe7c01a71d33eb09.945x945x1.jpg'}

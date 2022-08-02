@@ -1,0 +1,1 @@
+{'name': 'To ziomal', 'album_id': 395102, 'id_artist': 84456, 'name_artist': 'Żabson', 'cover': 'https://images.genius.com/be6ec4c33cbc93dca9adad93b5f10e0d.1000x1000x1.jpg'}

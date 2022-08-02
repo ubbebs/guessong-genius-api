@@ -1,0 +1,1 @@
+{'name': 'Tracki z przecieków', 'album_id': 864968, 'id_artist': 1421023, 'name_artist': 'TACONAFIDE', 'cover': 'https://images.genius.com/c1e93d6b72686ce77279b78c3f125b4d.493x493x1.jpg'}

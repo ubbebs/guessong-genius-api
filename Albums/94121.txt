@@ -1,0 +1,1 @@
+{'name': 'Welcome In My Family Mixtape', 'album_id': 94121, 'id_artist': 989939, 'name_artist': 'White 2115', 'cover': 'https://images.genius.com/bd3aa7fc6a180882be7b936489b6b722.553x553x1.jpg'}

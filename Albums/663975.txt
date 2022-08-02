@@ -1,0 +1,1 @@
+{'name': 'Art-Hop', 'album_id': 663975, 'id_artist': 31159, 'name_artist': 'Białas', 'cover': 'https://images.genius.com/c44c8b47852d051b2903b976431b3fd5.1000x1000x1.jpg'}

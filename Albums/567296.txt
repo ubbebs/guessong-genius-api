@@ -1,0 +1,1 @@
+{'name': 'Nie Jestem W 4mie', 'album_id': 567296, 'id_artist': 31159, 'name_artist': 'Białas', 'cover': 'https://images.genius.com/137eb3141e02de2469b9c4cf54384e33.400x400x1.jpg'}

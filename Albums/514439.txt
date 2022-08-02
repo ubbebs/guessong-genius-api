@@ -1,0 +1,1 @@
+{'name': 'POCZTÓWKA Z WWA, LATO ’19 (Edycja limitowana)', 'album_id': 514439, 'id_artist': 114783, 'name_artist': 'Taco Hemingway', 'cover': 'https://images.genius.com/8f5d881a3257fb8bfd8295e2212c606b.750x750x1.jpg'}

@@ -1,0 +1,1 @@
+{'name': 'Białas', 'artist_id': 31159, 'cover': 'https://images.genius.com/2e21d424d2f0370fb80d151719a87ee9.478x478x1.png', 'bgcover': 'https://images.genius.com/b219bd1c917ccd419d8b0a429bd99adb.960x514x1.jpg'}

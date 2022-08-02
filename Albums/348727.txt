@@ -1,0 +1,1 @@
+{'name': 'Dla Fanów Eklektyki', 'album_id': 348727, 'id_artist': 40889, 'name_artist': 'Quebonafide', 'cover': 'https://images.genius.com/fe92985387e0741192071762f77aca44.1000x1000x1.png'}

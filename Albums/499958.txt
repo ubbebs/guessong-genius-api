@@ -1,0 +1,1 @@
+{'name': 'Internaziomal', 'album_id': 499958, 'id_artist': 84456, 'name_artist': 'Żabson', 'cover': 'https://images.genius.com/5f2131352dcad154b08dfa074d9bc3cd.1000x1000x1.png'}

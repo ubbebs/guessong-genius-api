@@ -1,0 +1,1 @@
+{'name': 'WOSK ', 'album_id': 161086, 'id_artist': 114783, 'name_artist': 'Taco Hemingway', 'cover': 'https://images.genius.com/3ade4ed194a081f48b47f8d0c95637ce.1000x1000x1.jpg'}

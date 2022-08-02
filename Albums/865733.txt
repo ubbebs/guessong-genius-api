@@ -1,0 +1,1 @@
+{'name': 'Nieopublikowane utwory', 'album_id': 865733, 'id_artist': 40889, 'name_artist': 'Quebonafide', 'cover': 'https://images.genius.com/27b0d54b11d3d1eaf8868a4da0cd3190.300x300x1.jpg'}

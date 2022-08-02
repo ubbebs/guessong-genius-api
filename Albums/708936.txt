@@ -1,0 +1,1 @@
+{'name': 'Pretty Boy', 'album_id': 708936, 'id_artist': 989939, 'name_artist': 'White 2115', 'cover': 'https://images.genius.com/eee448589c39d2ecf26c83b34298aa10.1000x1000x1.jpg'}

@@ -1,0 +1,1 @@
+{'name': 'TRAPOLLO', 'album_id': 442747, 'id_artist': 84456, 'name_artist': 'Żabson', 'cover': 'https://images.genius.com/fab83c32f52da3e87f4adabe0e2fe56f.680x680x1.jpg'}

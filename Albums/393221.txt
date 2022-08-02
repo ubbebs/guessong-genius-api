@@ -1,0 +1,1 @@
+{'name': 'Rockstar', 'album_id': 393221, 'id_artist': 989939, 'name_artist': 'White 2115', 'cover': 'https://images.genius.com/fae852fc2fe125121f4e9685fcf261a3.959x959x1.jpg'}

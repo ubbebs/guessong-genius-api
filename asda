@@ -1,0 +1,208 @@
+{
+    'song': {
+        'annotation_count': 17,
+        'api_path': '/songs/5882331', 
+        'apple_music_id': '1528386139', 
+        'apple_music_player_url': 'https://genius.com/songs/5882331/apple_music_player', 
+        'artist_names': 'Taco Hemingway', 
+        'description': {
+            'plain': 'Panie, to Wyście! to numer opisujący eskalującą od lat nienawiść w naszym kraju, która objawia się praktycznie wszędzie i dotyka wielu osób. Wskazuje również na toczącą się wojnę polsko-polską, gdzie 2 największe partie polityczne antagonizują społeczeństwo i zupełnie niemerytorycznie walczą między sobą prowadząc politykę zastraszania sobą nawzajem.\nW refrenie autor zaznacza, iż pomimo nierzadkiej krytyki sytuacji w Polsce z jego strony, czuje się on Polakiem i nie są mu obojętne jej losy.'
+        },
+        'embed_content': "<div id='rg_embed_link_5882331' class='rg_embed_link' data-song-id='5882331'>Read <a href='https://genius.com/Taco-hemingway-panie-to-wyscie-lyrics'>“Panie, to Wyście!” by Taco\xa0Hemingway</a> on Genius</div> <script crossorigin src='//genius.com/songs/5882331/embed.js'></script>",
+        'featured_video': False,
+        'full_title': 'Panie, to Wyście! by\xa0Taco\xa0Hemingway',
+        'header_image_thumbnail_url': 'https://images.genius.com/008fa0b2560b2ce33813063e42757336.300x300x1.jpg',
+        'header_image_url': 'https://images.genius.com/008fa0b2560b2ce33813063e42757336.1000x1000x1.jpg',
+        'id': 5882331,
+        'lyrics_owner_id': 3836093,
+        'lyrics_placeholder_reason': None,
+        'lyrics_state': 'complete',
+        'path': '/Taco-hemingway-panie-to-wyscie-lyrics',
+        'pyongs_count': 9,
+        'recording_location': 'Studio NAGRYWARKA, Warsaw',
+        'relationships_index_url': 'https://genius.com/Taco-hemingway-panie-to-wyscie-sample',
+        'release_date': '2020-08-28',
+        'release_date_for_display': 'August 28, 2020',
+        'song_art_image_thumbnail_url': 'https://images.genius.com/008fa0b2560b2ce33813063e42757336.300x300x1.jpg',
+        'song_art_image_url': 'https://images.genius.com/008fa0b2560b2ce33813063e42757336.1000x1000x1.jpg',
+        'stats': {
+            'accepted_annotations': 15,
+            'contributors': 54,
+            'iq_earners': 53,
+            'transcribers': 4,
+            'unreviewed_annotations': 1,
+            'verified_annotations': 0,
+            'hot': False,
+            'pageviews': 51106
+        },
+        'title': 'Panie, to Wyście!',
+        'title_with_featured': 'Panie, to Wyście!',
+        'url': 'https://genius.com/Taco-hemingway-panie-to-wyscie-lyrics',
+        'current_user_metadata': {
+            'permissions': ['see_pageviews', 'view_apple_music_player', 'create_comment', 'view_song_story_gallery'],
+            'excluded_permissions': ['follow', 'award_transcription_iq', 'remove_transcription_iq', 'pyong', 'edit_lyrics', 'view_annotation_engagement_data', 'publish', 'unpublish', 'edit_spotify_details', 'hide', 'unhide', 'toggle_featured_video', 'add_pinned_annotation_to', 'add_community_annotation_to', 'destroy', 'mark_as_not_spam', 'edit_spotify_annotations_for', 'verify_lyrics', 'unverify_lyrics', 'edit_anything', 'edit_any_media', 'edit', 'rename', 'edit_tags', 'reindex', 'view_lyrics_synchronization', 'enable_media', 'disable_media', 'edit_lyrics_or_annotation_brackets', 'see_editorial_indicators', 'view_attribution_visualization', 'edit_annotation_brackets', 'preview_lyrics_for_export', 'hide_apple_player', 'unhide_apple_player', 'trigger_apple_match', 'mark_lyrics_evaluation_as_complete', 'mark_lyrics_evaluation_as_staff_approved', 'unmark_lyrics_evaluation_as_complete', 'mark_lyrics_evaluation_as_un_staff_approved', 'view_transcriber_media_player', 'override_apple_match', 'set_song_color_gradient', 'mark_as_hot', 'unmark_as_hot', 'view_recommendations', 'view_relationships_page', 'edit_youtube_url', 'edit_soundcloud_url', 'edit_spotify_uuid', 'edit_vevo_url', 'moderate_annotations', 'create_annotation', 'see_short_id', 'manage_chart_item', 'create_tag', 'propose_lyrics_edit', 'view_lyrics_edit_proposals_on_song'],
+            'interactions': {
+                'pyong': False,
+                'following': False
+            },
+            'relationships': {},
+            'iq_by_action': {}
+        },
+        'album': {
+            'api_path': '/albums/655540',
+            'cover_art_url': 'https://images.genius.com/008fa0b2560b2ce33813063e42757336.1000x1000x1.jpg',
+            'full_title': 'Jarmark by Taco Hemingway',
+            'id': 655540,
+            'name': 'Jarmark',
+            'url': 'https://genius.com/albums/Taco-hemingway/Jarmark',
+            'artist': {
+                'api_path': '/artists/114783',
+                'header_image_url': 'https://images.genius.com/41437523913170c516fb500db030ad80.760x400x1.jpg',
+                'id': 114783,
+                'image_url': 'https://images.genius.com/e5996f18e3130755a34c88772998eb8e.729x729x1.jpg',
+                'is_meme_verified': True,
+                'is_verified': True,
+                'name': 'Taco Hemingway',
+                'url': 'https://genius.com/artists/Taco-hemingway',
+                'iq': 4520}
+            },
+        'custom_performances': [
+            {'label': 'Additional Vocals By',
+            'artists': [
+                {
+                    'api_path': '/artists/59067',
+                    'header_image_url': 'https://images.genius.com/60b92b872cd573a22a93e1f29cf9df12.465x465x1.jpg',
+                    'id': 59067,
+                    'image_url': 'https://images.genius.com/60b92b872cd573a22a93e1f29cf9df12.465x465x1.jpg',
+                    'is_meme_verified': False,
+                    'is_verified': False,
+                    'name': 'Tomasz Knapik',
+                    'url': 'https://genius.com/artists/Tomasz-knapik'
+                },
+                {
+                    'api_path': '/artists/203033',
+                    'header_image_url': 'https://images.genius.com/66e4e11684926b2cfd63ce76e77523b0.800x319x1.jpg',
+                    'id': 203033,
+                    'image_url': 'https://images.genius.com/7305b526144066c9380d4f2671e4e614.438x438x1.jpg',
+                    'is_meme_verified': False,
+                    'is_verified': False,
+                    'name': 'Oskar',
+                    'url': 'https://genius.com/artists/Oskar'
+                }
+            ]
+            },{
+                'label': 'Mastered by',
+                'artists': [
+                    {
+                        'api_path': '/artists/1100657',
+                        'header_image_url': 'https://images.genius.com/76f218b73611efe03578980b05ee8049.598x598x1.jpg',
+                        'id': 1100657,
+                        'image_url': 'https://images.genius.com/76f218b73611efe03578980b05ee8049.598x598x1.jpg',
+                        'is_meme_verified': False,
+                        'is_verified': False,
+                        'name': 'Rafał Smoleń',
+                        'url': 'https://genius.com/artists/Rafa-smolen'
+                    }
+                ]
+            }, {
+                'label': 'Mixed By',
+                'artists': [
+                    {
+                        'api_path': '/artists/1100657',
+                        'header_image_url': 'https://images.genius.com/76f218b73611efe03578980b05ee8049.598x598x1.jpg',
+                        'id': 1100657,
+                        'image_url': 'https://images.genius.com/76f218b73611efe03578980b05ee8049.598x598x1.jpg',
+                        'is_meme_verified': False,
+                        'is_verified': False,
+                        'name': 'Rafał Smoleń',
+                        'url': 'https://genius.com/artists/Rafa-smolen'
+                    }
+                ]
+            }],
+        'description_annotation': {
+            '_type': 'referent',
+            'annotator_id': 10559550,
+            'annotator_login': 'Spren3',
+            'api_path': '/referents/20687907',
+            'classification': 'accepted',
+            'fragment': 'Panie, to Wyście!',
+            'id': 20687907,
+            'is_description': True,
+            'path': '/20687907/Taco-hemingway-panie-to-wyscie/Panie-to-wyscie',
+            'range': {
+                'content': 'Panie, to Wyście!'
+            },
+            'song_id': 5882331,
+            'url': 'https://genius.com/20687907/Taco-hemingway-panie-to-wyscie/Panie-to-wyscie',
+            'verified_annotator_ids': [],
+            'annotatable': {
+                'api_path': '/songs/5882331',
+                'client_timestamps': {
+                    'updated_by_human_at': 1652018097,
+                    'lyrics_updated_at': 1652018097
+                },
+                'context': 'Taco Hemingway',
+                'id': 5882331,
+                'image_url': 'https://images.genius.com/008fa0b2560b2ce33813063e42757336.1000x1000x1.jpg',
+                'link_title': 'Panie, to Wyście! by\xa0Taco\xa0Hemingway',
+                'title': 'Panie, to Wyście!',
+                'type': 'Song',
+                'url': 'https://genius.com/Taco-hemingway-panie-to-wyscie-lyrics'
+            },
+            'annotations': [
+                {
+                    'api_path': '/annotations/20687907',
+                    'body': {
+                        'plain': 'Panie, to Wyście! to numer opisujący eskalującą od lat nienawiść w naszym kraju, która objawia się praktycznie wszędzie i dotyka wielu osób. Wskazuje również na toczącą się wojnę polsko-polską, gdzie 2 największe partie polityczne antagonizują społeczeństwo i zupełnie niemerytorycznie walczą między sobą prowadząc politykę zastraszania sobą nawzajem.\nW refrenie autor zaznacza, iż pomimo nierzadkiej krytyki sytuacji w Polsce z jego strony, czuje się on Polakiem i nie są mu obojętne jej losy.'
+                    },
+                    'comment_count': 1,
+                    'community': True,
+                    'custom_preview': None,
+                    'has_voters': True,
+                    'id': 20687907,
+                    'pinned': False,
+                    'share_url': 'https://genius.com/20687907',
+                    'source': None,
+                    'state': 'accepted',
+                    'url': 'https://genius.com/20687907/Taco-hemingway-panie-to-wyscie/Panie-to-wyscie',
+                    'verified': False,
+                    'votes_total': 17,
+                    'current_user_metadata': {
+                        'permissions': ['create_comment'],
+                        'excluded_permissions': ['vote', 'edit', 'cosign', 'uncosign', 'destroy', 'accept', 'reject', 'see_unreviewed', 'clear_votes', 'propose_edit_to', 'pin_to_profile', 'unpin_from_profile', 'update_source', 'edit_custom_preview'],
+                        'interactions': {
+                            'cosign': False,
+                            'pyong': False,
+                            'vote': None
+                        },
+                        'iq_by_action': {}
+                    },
+                    'cosigned_by': [],
+                    'rejection_comment': None,
+                    'verified_by': None
+                }
+            ]
+        },
+        'featured_artists': [],
+        'lyrics_marked_complete_by': None,
+        'lyrics_marked_staff_approved_by': None,
+        'media': [
+            {
+                'provider': 'youtube',
+                'start': 0,
+                'type': 'video',
+                'url': 'http://www.youtube.com/watch?v=Gn4YbbQ0dDU'
+            }
+        ],
+        'primary_artist': {
+            'api_path': '/artists/114783',
+            'header_image_url': 'https://images.genius.com/41437523913170c516fb500db030ad80.760x400x1.jpg',
+            'id': 114783,
+            'image_url': 'https://images.genius.com/e5996f18e3130755a34c88772998eb8e.729x729x1.jpg',
+            'is_meme_verified': True,
+            'is_verified': True,
+            'name': 'Taco Hemingway',
+            'url': 'https://genius.com/artists/Taco-hemingway',
+            'iq': 4520
+        }, 'producer_artists': [{'api_path': '/artists/1332210', 'header_image_url': 'https://assets.genius.com/images/default_avatar_300.png?1659110368', 'id': 1332210, 'image_url': 'https://assets.genius.com/images/default_avatar_300.png?1659110368', 'is_meme_verified': False, 'is_verified': False, 
+'name': 'Pejzaż', 'url': 'https://genius.com/artists/Pejzaz'}], 'song_relationships': [{'relationship_type': 'samples', 'type': 'samples', 'songs': []}, {'relationship_type': 'sampled_in', 'type': 'sampled_in', 'songs': []}, {'relationship_type': 'interpolates', 'type': 'interpolates', 'songs': []}, {'relationship_type': 'interpolated_by', 'type': 'interpolated_by', 'songs': []}, {'relationship_type': 'cover_of', 'type': 'cover_of', 'songs': []}, {'relationship_type': 'covered_by', 'type': 'covered_by', 'songs': []}, {'relationship_type': 'remix_of', 'type': 'remix_of', 'songs': []}, {'relationship_type': 'remixed_by', 'type': 'remixed_by', 'songs': []}, {'relationship_type': 'live_version_of', 'type': 'live_version_of', 'songs': []}, {'relationship_type': 'performed_live_as', 'type': 'performed_live_as', 'songs': []}], 'verified_annotations_by': [], 'verified_contributors': [], 'verified_lyrics_by': [], 'writer_artists': [{'api_path': '/artists/114783', 'header_image_url': 'https://images.genius.com/41437523913170c516fb500db030ad80.760x400x1.jpg', 'id': 114783, 'image_url': 'https://images.genius.com/e5996f18e3130755a34c88772998eb8e.729x729x1.jpg', 'is_meme_verified': True, 'is_verified': True, 'name': 'Taco Hemingway', 'url': 'https://genius.com/artists/Taco-hemingway', 'iq': 4520}]}}

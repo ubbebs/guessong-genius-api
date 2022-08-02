@@ -1,0 +1,1 @@
+{'name': 'ROMANTIC PSYCHO (Japan Edition)', 'album_id': 619070, 'id_artist': 40889, 'name_artist': 'Quebonafide', 'cover': 'https://images.genius.com/d1f9c5b434969e264beecb50db041d8a.1000x1000x1.png'}

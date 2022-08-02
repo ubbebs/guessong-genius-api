@@ -1,0 +1,1 @@
+{'name': 'Young Leosia', 'artist_id': 2232626, 'cover': 'https://images.genius.com/6be997a50f37c6e9e3e3b7ce0b416067.1000x1000x1.jpg', 'bgcover': 'https://images.genius.com/b7e6cd50af8a013244e350d8c6aa772a.1000x662x1.jpg'}

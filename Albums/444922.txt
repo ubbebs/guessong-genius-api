@@ -1,0 +1,1 @@
+{'name': 'Flagey', 'album_id': 444922, 'id_artist': 114783, 'name_artist': 'Taco Hemingway', 'cover': 'https://images.genius.com/41d606e3a11c18efaf3e49725bde0449.640x640x1.jpg'}

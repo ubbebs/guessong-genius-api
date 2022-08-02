@@ -1,0 +1,1 @@
+{'name': 'Młody Książę', 'album_id': 512343, 'id_artist': 989939, 'name_artist': 'White 2115', 'cover': 'https://images.genius.com/d48ee4a172eb08fb89b637272ee70df8.640x640x1.jpg'}

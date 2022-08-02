@@ -1,0 +1,1 @@
+{'name': 'Ziomalski Mixtape', 'album_id': 651833, 'id_artist': 84456, 'name_artist': 'Żabson', 'cover': 'https://images.genius.com/1bd3e8b63624a4745e959e9ea0aeabf7.969x969x1.png'}
